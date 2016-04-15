@@ -34,13 +34,5 @@
     "kii-cloud-sdk",
     "mbaas",
     "cloud"
-  ],
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/KiiCorp/KiiCloudSDK-JS.git",
-    "basePath": ".",
-    "files": [
-      "KiiSDK.min.js"
-    ]
-  }
+  ]
 }
